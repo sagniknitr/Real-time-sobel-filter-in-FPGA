@@ -1,4 +1,4 @@
-## Acclerator Edge Detection in FPGA
+## Sobel Edge Detection in  FPGA using pipeline architecture
 
 ![alt tag](https://cloud.githubusercontent.com/assets/17951883/23996071/2b1df750-0a72-11e7-97fe-08915c0668e1.png)
 
