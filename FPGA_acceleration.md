@@ -1,6 +1,6 @@
 ## Acclerator Edge Detection in FPGA
 
-![alt tag](https://github.com/sagniknitr/Real-time-sobel-filter-in-FPGA/edit/master/sobel_pipeline.png)
+![alt tag](https://raw.githubusercontent.com/sagniknitr/Real-time-sobel-filter-in-FPGA/edit/master/sobel_pipeline.png)
 
 
 ## Steps to reduce bandwidth in FPGA accleration module for Sobel Filter
